@@ -1,2 +1,0 @@
-# image
-All Categories images
